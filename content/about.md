@@ -3,7 +3,9 @@ title: "Joshua Hayes"
 date: "2019-02-14"
 ---
 
-# **What** is Joshua Hayes?
+# *What* is Joshua Hayes?
+Some call me Josh, others JD (context: middle name Drew), and others still -- for reasons I can't fathom -- JJ. Call me whatever you want. Keep insults to a minimum... Here's a summary of my time on this little blue pebble:
+
 - Former:
     - Child;
     - Melbourne-based teenage "muzza" <-- complete with mullet, GHD hair straightener, and an interesting choice of vernacular;
