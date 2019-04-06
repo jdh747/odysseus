@@ -5,7 +5,6 @@ images:
   - "/images/ptitf.jpg"
 ---
 
-# *What* is it?
 Some call me Josh, others JD (context: middle name Drew), and others still -- for reasons I can't fathom -- JJ. Call me whatever you want. Keep insults to a minimum... Here's a short summary of my time on this little blue pebble:
 
 - Former:
