@@ -3,6 +3,7 @@ languageCode = "en-au"
 defaultContentLanguage = "en"
 title = "Joshua Hayes"
 theme = "hermit"
+staticDir = "static"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -32,12 +33,12 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Metadata mostly used in document's head
   # description = ""
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#000000"
+  # themeColor = "#494f5c"
 
   homeSubtitle = "Hacking away at creative problems. Sharing unsolicited thoughts, opinions and findings."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL todo
-
+  bgImg = "/images/ptitf.jpg"  # Homepage background-image URL
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
 
@@ -55,7 +56,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "email"
-    url = "joshhayes747@gmail.com"
+    url = "mailto:joshhayes747+website@gmail.com"
 
   [[params.social]]
     name = "github"
