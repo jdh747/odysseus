@@ -1,9 +1,9 @@
 # TODO
 
     - [x] Clean up content
-    - [ ] Get theme/images linking staticly
-    - [ ] Change website transparency/colour
-    - [ ] Build and deploy to GH pages
-    - [ ] QA, ensure everything links and works
-    - [ ] Get domain and redirect
+    - [x] Get theme/images linking staticly
+    - [x] Change website transparency/colour
+    - [x] Build and deploy to GH pages
+    - [x] QA, ensure everything links and works
+    - [x] Get domain and redirect
     - [ ] Write an article
