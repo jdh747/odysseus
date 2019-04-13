@@ -2,6 +2,11 @@
 title: "Better MySQL: a brief odyssey with MyCLI"
 date: 2019-02-14T08:05:44+13:00
 draft: true
+toc: true
+images:
+  - "/images/ptitf.jpg"
+tags: 
+  - none
 ---
 
 # The Gist
