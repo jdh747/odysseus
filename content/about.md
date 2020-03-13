@@ -23,4 +23,5 @@ A short summary of my time on this little blue pebble...
 
 * [GitHub](https://github.com/jdh747);
 * [Twitter](https://twitter.com/joshhayes747);
+* Challenge me on [CodeWars](https://www.codewars.com/users/jdh747) or [HackerRank](https://www.hackerrank.com/joshhayes747)
 * I have an [email](mailto:joshhayes747+website@gmail.com), too.
