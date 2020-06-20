@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef0464e3-2638-48fd-bca4-716bf4e16760/deploy-status)](https://app.netlify.com/sites/sharp-roentgen-3014f6/deploys)
+
 ## TODO
 
     - [x] Clean up content
